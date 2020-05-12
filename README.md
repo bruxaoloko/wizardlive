@@ -1,2 +1,0 @@
-# wizardlive
-Site de Streaming
